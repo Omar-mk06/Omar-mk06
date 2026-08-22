@@ -82,12 +82,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Omar-mk06&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9" alt="WakaTime Stats" />
-</div>
-
-<br>
-
 <!-- Tech Stack -->
 ## :hammer_and_wrench: &nbsp;Tech Stack & Tools
 
