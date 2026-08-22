@@ -34,11 +34,11 @@
 
 <br>
 
-<table cellpadding="20" cellspacing="0" width="100%" style="border: none;">
+<table>
   <tr>
-    <td align="center" width="50%" style="border: none; padding: 20px;">
-      <h3>:rocket: &nbsp;What I Do</h3>
-      <br>
+    <td align="center" width="50%">
+      <h2>:rocket: &nbsp;What I Do</h2>
+      <br><br>
       <img src="https://img.shields.io/badge/Web_Development-1f6feb?style=for-the-badge&logo=react&logoColor=white" />
       <br><br>
       <img src="https://img.shields.io/badge/API_Design-1f6feb?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -46,10 +46,11 @@
       <img src="https://img.shields.io/badge/Automation-1f6feb?style=for-the-badge&logo=python&logoColor=white" />
       <br><br>
       <img src="https://img.shields.io/badge/Cloud_Architecture-1f6feb?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <br><br>
     </td>
-    <td align="center" width="50%" style="border: none; padding: 20px;">
-      <h3>:brain: &nbsp;Currently Learning</h3>
-      <br>
+    <td align="center" width="50%">
+      <h2>:brain: &nbsp;Currently Learning</h2>
+      <br><br>
       <img src="https://img.shields.io/badge/AI_&_ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
       <br><br>
       <img src="https://img.shields.io/badge/Cloud_Native-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -57,26 +58,37 @@
       <img src="https://img.shields.io/badge/System_Design-FF6F00?style=for-the-badge&logo=architect&logoColor=white" />
       <br><br>
       <img src="https://img.shields.io/badge/Rust-FF6F00?style=for-the-badge&logo=rust&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" style="border: none; padding: 20px;">
-      <h3>:speech_balloon: &nbsp;Ask Me About</h3>
-      <br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <br><br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     </td>
   </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr><td colspan="2"><br></td></tr>
   <tr>
-    <td align="center" colspan="2" style="border: none; padding: 20px;">
-      <h3>:joy: &nbsp;Fun Fact</h3>
-      <br>
-      <samp>I debug with <code>console.log</code> and I'm not ashamed of it :smile:</samp>
+    <td align="center" colspan="2">
+      <h2>:speech_balloon: &nbsp;Ask Me About</h2>
+      <br><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <br><br><br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <br><br>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h2>:joy: &nbsp;Fun Fact</h2>
+      <br><br>
+      <h3><samp>I debug with <code>console.log</code> and I'm not ashamed of it :smile:</samp></h3>
+      <br><br>
     </td>
   </tr>
 </table>
